@@ -7,6 +7,24 @@
         <mxCell id="vc8n4uK07FXEmmHoJwET-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="20" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-2" value="Translation update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-3" value="Build and publish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-4" value="Test execution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-5" value="Playwright E2E&amp;nbsp;&lt;div&gt;test execution&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-6" value="Robot E2E&amp;nbsp;&lt;div&gt;test execution&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vc8n4uK07FXEmmHoJwET-7" value="Azure Functions E2E&amp;nbsp;&lt;div&gt;test execution&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
